@@ -7,3 +7,6 @@ Then, I fit the model using [data](https://raw.githubusercontent.com/CSSEGISandD
 [covid_model.py](https://github.com/oliviamcnary/Covid-Model/blob/master/covid_model.py) contains the IHME model function, an optimizing nonlinear least-squares function, and unit tests for those functions.
 
 [covid-modeling.ipynb](https://github.com/oliviamcnary/Covid-Model/blob/master/covid-modeling.ipynb) contains answers to questions about the IHME article and the fitted models.
+
+Spoiler alert - it doesn't look good.
+![](covid_graph.png)
