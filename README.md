@@ -1,6 +1,6 @@
 # IHME Covid Model
 
-I recreated the model discussed in this [article](https://www.medrxiv.org/content/10.1101/2020.03.27.20043752v1.full).
+I recreated the COVID cumulative death rate model discussed in this [article](https://www.medrxiv.org/content/10.1101/2020.03.27.20043752v1.full).
 
 Then, I fit the model using [data](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv) on COVID deaths from Alameda county.
 
